@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I'm currently pursuing my bachelors in Computer Applications > 2nd yr
-- 🌱 From C/C++ and basics of Data Structures and Algorithms
+- 🔭 Currently pursuing my bachelors in Computer Applications > 1st yr
+- 🌱 From C/C++ to practicing Data Structures and Algorithms(still am)
 - 👯 > to fundamentals of IT, computer hardware, OS, Computer Networks - theories are covered
 - 🤔 > Now, dedicating myself to development
 - 🧑‍💻 > Here to learn, build and colaborate.

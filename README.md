@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💀 Currently pursuing my bachelors in Computer Applications > 1st yr
+- 💀 Currently pursuing my bachelors in Computer Applications > 2nd yr
 - 💀 From C/C++ to practicing Data Structures and Algorithms(still am)
 - 💀 > to fundamentals of IT, computer hardware, OS, Computer Networks - theories are covered
 - 💀 > Now, dedicating myself to development

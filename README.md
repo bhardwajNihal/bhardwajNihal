@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Nihal Bhardwaj 👋</h1>
 <p align="center">
-  💻 Web Developer | ⚙️ Backend Explorer | 🔐 DevSecOps Learner <br>
+  💻 Web Developer | ⚙️ Backend Explorer | 🔐 Devops Learner <br>
   🎯 Building solid full-stack apps, open to collaborations & internships
 </p>
 

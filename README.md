@@ -5,7 +5,7 @@
 
 ---
 
-🎓 **Currently:** BCA 2nd Year  
+🎓 **Currently:** MCA 1st Year  
 🚀 **Tech Stack:**  
 ## ⚡Current Tech Stack
 

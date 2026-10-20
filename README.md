@@ -29,6 +29,8 @@
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Gemini_AI-673ab7?logo=google&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
